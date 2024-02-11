@@ -1,0 +1,68 @@
+.Menu{
+  text-align: center;
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_eEWE5TvNwI2rANAZzgQk6HmXwLFEN-m7YA&usqp=CAU);
+background-repeat: initial;
+height: 60px;
+
+  overflow: visible;
+}
+.h3{
+
+color: rgb(0, 0, 0);
+
+}
+.beforemenu{
+
+text-align: center;
+
+}
+
+
+body {
+
+  background-color: rgb(197, 207, 216);
+  background-repeat: auto;
+
+}
+
+
+
+
+.Menu a{
+
+  border: 2px;
+  border-radius: 5px;
+  border-color: black;
+  border-width: 6px;
+  border-style: none;
+  background-color: rgba(241, 197, 76, 0.774);
+  padding: 1px;
+  margin: 5px;
+  text-align: auto;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.Photos{
+
+text-align: center;
+
+}
+
+
+
+ h3{
+
+  text-align: center;
+
+  height: 1px;
+
+ }
+
+ .menu h3{
+
+color: rgb(187, 172, 129);
+
+ }
